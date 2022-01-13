@@ -1,2 +1,4 @@
 # clojure-playground
-I did some challenges on codewars
+
+Here are some of the *codewars* challenges' solutions in **clojure**.
+
